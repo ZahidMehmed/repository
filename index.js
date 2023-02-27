@@ -1,2 +1,3 @@
 let fname = "zahid";
-console.log(fname);
+let lname = "Mehmood";
+console.log(fname+" "+lname);
